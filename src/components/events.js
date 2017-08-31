@@ -112,7 +112,7 @@ module.exports = React.createClass({
               </Text>
             </TouchableOpacity>
           </View>
-      </View>
+        </View>
         <View style={styles.list}>
           <ListView
             dataSource={this.state.dataSource}
